@@ -3,7 +3,6 @@ Note :
 -- An equilateral triangle is a triangle in which all three sides are equal.
 -- A scalene triangle is a triangle that has three unequal sides.
 -- An isosceles triangle is a triangle with (at least) two equal sides.'''
-
 a=int(input("enter a 1st side"))
 b=int(input("enter a 2nd side"))
 c=int(input("enter a 3rd side"))
